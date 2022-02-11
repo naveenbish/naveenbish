@@ -14,13 +14,13 @@
 
 - 👨‍💻 All of my projects are available at (Link will be updating soon)
 
-- 📝 I regularly write articles on [(will be available soon)]((will be available soon))
+- 📝 I regularly write articles on [(will be available soon)]
 
 - 💬 Ask me about **Java,C++.**
 
 - 📫 How to reach me **bishtnitin003@gmail.com**
 
-- 📄 Know about my experiences [(will be updating too)]((will be updating too))
+- 📄 Know about my experiences [(will be updating too)]
 
 - ⚡ Fun fact **Everything is good**
 
