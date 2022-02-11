@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on **Online Banking**
+- 🔭 I’m currently working on **Online Banking Project**
 
 - 🌱 I’m currently learning **Angular**
 
