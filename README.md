@@ -4,23 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenbish&label=Profile%20views&color=0e75b6&style=flat" alt="naveenbish" /> </p>
 
+- 🌱 I’m currently learning **MERN STACK**
 
-
-- 🔭 I’m currently working on **Online Banking Project**
-
-- 🌱 I’m currently learning **Angular**
-
-- 👯 I’m looking to collaborate on **Future Project**
-
-- 👨‍💻 All of my projects are available at (Link will be updating soon)
+- 👨‍💻 All of my projects are available at (Hosted Link Will be Updated Soon)
 
 - 📝 I regularly write articles on [(will be available soon)]
 
-- 💬 Ask me about **Java,C++.**
+- 💬 Ask me about **Web Hosting, AWS**
 
 - 📫 How to reach me **bishtnitin003@gmail.com**
 
-- 📄 Know about my experiences [(will be updating too)]
+- 📄 Know about my experiences **1 Year Devops Experience**
 
 - ⚡ Fun fact **Everything is good**
 
