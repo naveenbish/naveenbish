@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NitinBi64120443" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="naveenbish" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/naveen-bisht-775410221/" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="naveenbish" height="30" width="40" /></a>
+<a href="https://twitter.com/NitinBi64120443" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="naveenbish" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/naveen-bisht-775410221/" target="_blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="naveenbish" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
