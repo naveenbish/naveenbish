@@ -19,7 +19,6 @@
 - ⚡ Fun fact **Everything is good**
 
 <h3 align="left">Languages and Tools:</h3>
----
 
 ### 🛠 &nbsp;Languages and Tools :
 
