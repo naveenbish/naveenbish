@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Hosting, AWS Services, MERN STACK**
 
-- 📫 How to reach me **bishtnitin003@gmail.com**  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-bisht-775410221/)
+- 📫 How to reach me **bishtnitin003@gmail.com**  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-bisht-775410221/)
 
 - 📄 Know about my experiences **1 Year + Devops Experience**
 
